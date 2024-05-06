@@ -35,38 +35,38 @@ section:nth-child(1) {
   background: white;
 }
 section:nth-child(2) {
-  background-image: url("/public/assets/images/1.JPG");
+  background-image: url("/assets/images/1.JPG");
   justify-content: end;
   padding-bottom: 100px;
 }
 section:nth-child(3) {
-  background-image: url("/public/assets/images/2.JPG");
+  background-image: url("/assets/images/2.JPG");
   justify-content: start;
   align-items: end;
   text-align: right;
   padding-left: 300px;
 }
 section:nth-child(4) {
-  background-image: url("/public/assets/images/3.JPG");
+  background-image: url("/assets/images/3.JPG");
   justify-content: end;
   align-items: end;
   text-align: right;
 }
 section:nth-child(5) {
-  background-image: url("/public/assets/images/4.JPG");
+  background-image: url("/assets/images/4.JPG");
   justify-content: start;
   align-items: start;
   text-align: left;
 }
 section:nth-child(6) {
-  background-image: url("/public/assets/images/5.JPG");
+  background-image: url("/assets/images/5.JPG");
   justify-content: end;
   align-items: end;
   text-align: right;
   padding-left: 500px;
 }
 section:nth-child(7) {
-  background-image: url("/public/assets/images/6.JPG");
+  background-image: url("/assets/images/6.JPG");
   justify-content: start;
   padding-top: 150px;
 }
